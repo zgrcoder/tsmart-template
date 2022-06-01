@@ -1,0 +1,25 @@
+{
+  "name": "tsmart-project",
+  "version": "1.0.0",
+  "description": "TSmart组件工程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "./dist",
+    "./type"
+  ],
+  "publishConfig": {
+    "registry": "http://r.tnpm.oa.com"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+  },
+  "devDependencies": {
+  }
+}
