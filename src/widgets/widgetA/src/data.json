@@ -1,0 +1,13 @@
+{
+  "label": "组件A",
+  "src": "",
+  "desc": "",
+  "rows": 4,
+  "placeholder": "请输入内容",
+  "validation": [{ "required": false, "message": "${name} 不能为空" }],
+  "style": {
+    "marginLeft": 15,
+    "marginRight": 15,
+    "marginBottom": 25
+  }
+}
