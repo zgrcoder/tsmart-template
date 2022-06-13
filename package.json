@@ -12,11 +12,12 @@
   "dependencies": {
     "@ant-design/colors": "^6.0.0",
     "@ant-design/icons": "^4.7.0",
-    "@tcac/cc-component": "^0.0.8",
-    "@tcac/cc-sdk": "^0.0.4",
+    "@tcac/cc-component": "^0.0.18",
+    "@tcac/cc-sdk": "^0.0.10",
     "antd": "^4.20.2",
     "mobx": "^6.5.0",
     "mobx-react": "^7.4.0",
+    "moment": "^2.29.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "styled-components": "^5.3.5"
